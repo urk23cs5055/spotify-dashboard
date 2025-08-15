@@ -4,5 +4,8 @@ numpy
 matplotlib
 scikit-learn
 plotly
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 529ac30003eb289c168a8f52d45156ffc9918c87
